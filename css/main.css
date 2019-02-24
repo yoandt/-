@@ -1,0 +1,71 @@
+.main-header {
+  background-image: url(../images/komputer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25% 0%;
+}
+.hero-gambar {
+  margin-bottom: 3%
+}
+.main-yoan h4 {
+  color: white;
+}
+.main-web h6 {
+  color: white;
+}
+.container-fluid {
+  overflow: hidden;
+}
+
+.main-cerita{
+  background-color: #eeeed1;
+  padding:12% 0;
+
+}
+.main-gue h4 {
+  color: #241707;
+}
+.main-nama h6 {
+  color: #241707;
+}
+.main-karya{
+ background-color: white;
+ padding:12% 0;
+}
+ .main-karya h6{
+   margin-bottom: 10%;
+}
+ .down-items {
+    margin-bottom: 4%;
+ }
+ .down-bung {
+   margin-bottom: 4%;
+ }
+.main-Skill {
+   background-color: #ff6600;
+    padding: 5% 0;
+}
+ .main-Skill h4 {
+    color: white;
+ }
+.progress {
+   border: 1px solid black;
+    margin: 1% 0;
+}
+.main-title {
+   margin-bottom: 3%;
+}
+
+.main-kontak {
+   padding: 10% 0;
+}
+
+.main-kontak h4 {
+   margin-bottom: 4%;
+}
+
+.main-footer {
+  background-color: #241707;
+  color: white;
+  padding: 5% 0;
+}
